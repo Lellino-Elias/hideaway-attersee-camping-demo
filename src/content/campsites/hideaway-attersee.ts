@@ -85,7 +85,7 @@ const hideawayAttersee: CampsiteConfig = {
       },
       {
         title: "Raus aufs Wasser",
-        text: "Die ruhige Bucht ist dein Startpunkt aufs Wasser — mit dem Kanu, dem SUP oder dem eigenen Boot direkt vor dem Platz.",
+        text: "Die ruhige Bucht ist dein Startpunkt — hinein ins türkisblaue Wasser oder einfach den Abend am Ufer genießen.",
         image: { src: `${IMG}/gallery-12c1a88038.webp`, alt: "Paddeln im Abendlicht auf dem Attersee" },
       },
       {
@@ -140,8 +140,6 @@ const hideawayAttersee: CampsiteConfig = {
   },
 
   kontakt: {
-    tel: "+43 664 2440003",
-    telHref: "tel:+436642440003",
     mail: "jessika@hideaway-attersee.at",
     facebook: "https://www.facebook.com/hideaway.attersee.camping",
     adresse: "Unterburgau 4a · 4854 Weißenbach am Attersee · Oberösterreich",
