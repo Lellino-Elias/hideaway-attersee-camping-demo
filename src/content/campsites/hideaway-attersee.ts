@@ -17,7 +17,6 @@ const hideawayAttersee: CampsiteConfig = {
   see: "Attersee",
   regionLong: "Attersee · Salzkammergut · Oberösterreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Deine versteckte Bucht am Attersee",
@@ -141,7 +140,6 @@ const hideawayAttersee: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.799815, lng: 13.536136 },
     tel: "+43 664 2440003",
     telHref: "tel:+436642440003",
     mail: "jessika@hideaway-attersee.at",
