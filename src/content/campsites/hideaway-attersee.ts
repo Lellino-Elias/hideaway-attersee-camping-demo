@@ -140,6 +140,9 @@ const hideawayAttersee: CampsiteConfig = {
   },
 
   kontakt: {
+    tel: "+43 664 2440003",
+    telHref: "tel:+436642440003",
+    coords: { lat: 47.792843, lng: 13.509861 },
     mail: "jessika@hideaway-attersee.at",
     facebook: "https://www.facebook.com/hideaway.attersee.camping",
     adresse: "Unterburgau 4a · 4854 Weißenbach am Attersee · Oberösterreich",
